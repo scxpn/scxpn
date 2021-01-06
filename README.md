@@ -4,5 +4,5 @@
 
 Veja meu portifólio em <https://scxpn.vercel.app/> :computer:
 
- [ ] Lista de contatos
- [ ] Potifólio
+- [x] Lista de contatos
+- [ ] Potifólio
